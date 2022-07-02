@@ -1,4 +1,5 @@
 #!/bin/bash 
+<<<<<<< HEAD
 
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -24,3 +25,8 @@ date
 	
 	sleep 20
 >>>>>>> task3
+=======
+help 
+
+sleep 20
+>>>>>>> task4
