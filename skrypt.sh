@@ -8,7 +8,3 @@
 	
 	sleep 20
 =======
-date 
-
-sleep 20
->>>>>>> Stashed changes
