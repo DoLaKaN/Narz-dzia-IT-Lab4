@@ -13,7 +13,6 @@ date
 	done
 	
 =======
->>>>>>> Stashed changes
 >>>>>>> task2
 =======
 	for i in {1..30}
