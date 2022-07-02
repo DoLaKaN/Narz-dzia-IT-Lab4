@@ -13,8 +13,6 @@ date
 	done
 	
 =======
-date 
-
 >>>>>>> Stashed changes
 >>>>>>> task2
 =======
