@@ -1,6 +1,7 @@
 #!/bin/bash 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 date 
 
 =======
@@ -15,3 +16,11 @@ date
 
 >>>>>>> Stashed changes
 >>>>>>> task2
+=======
+	for i in {1..30}
+	do
+	echo "log"$i >> log$i.txt
+	done
+	
+	sleep 20
+>>>>>>> task3
